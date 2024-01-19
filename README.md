@@ -1,0 +1,2 @@
+# TrigonometricInverseDomain-
+Trigonometric inverse domain 
